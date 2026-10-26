@@ -137,8 +137,25 @@ Run with `./gradlew test`.
 
 ## Screenshots
 
-Initial state of Home without products
-![Home without products](/screenshots/img.png)
+Initial state of Home without products:
+
+![Init state](screenshots/img.png)
+
+Add product:
+
+![Add product](screenshots/img_1.png)
+
+Home with loaded data:
+
+![Init state](screenshots/img_2.png)
+
+List of products:
+
+![Init state](screenshots/img_3.png)
+
+Statistics:
+
+![Init state](screenshots/img_4.png)
 
 ## Known limitations
 
