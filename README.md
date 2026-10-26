@@ -137,13 +137,8 @@ Run with `./gradlew test`.
 
 ## Screenshots
 
-| Home | Products |
-|---|---|
-| ![Home](screenshots/01-home.png) | ![Products](screenshots/02-products.png) |
-
-| Add product | Statistics |
-|---|---|
-| ![Add product](screenshots/03-form.png) | ![Statistics](screenshots/04-stats.png) |
+Initial state of Home without products
+![Home without products](/screenshots/img.png)
 
 ## Known limitations
 
